@@ -1,5 +1,6 @@
 #You can find this bot here: https://t.me/vmeste_tv_bot
 #It probably works right now
+#It also searches movies on a russian website.
 
 from lxml import html
 import requests
